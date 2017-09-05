@@ -2,8 +2,4 @@
 
 This is a readme file
 
-Some  changes
-
-Edit commit
-
-Further edit
+Update made on maste ron Github before rebase
